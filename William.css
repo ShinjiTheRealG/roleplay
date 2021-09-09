@@ -1,4 +1,4 @@
-html { overflow: hidden; }
+html, body {margin: 0; height: 100%; overflow: hidden}
 
 .u-section-1 .u-sheet-1 {
   min-height: 1543px;
